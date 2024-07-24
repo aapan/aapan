@@ -2,7 +2,8 @@
 
 A Python developer from Taiwan. Currently building [my blog](https://aapan.github.io/) to share insights about programming, reading reviews and note-taking. 
 
-Skills:
+## Skills:
+
 ![Python](https://img.shields.io/badge/Python-444?style=flat&logo=Python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-444?style=flat&logo=Django&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-444?style=flat&logo=pytest&logoColor=white)
