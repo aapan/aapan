@@ -1,6 +1,6 @@
 ## Hi, I'm Aaron 👋
 
-A Python developer from Taiwan. Currently building [my blog](https://aapan.github.io/) to share insights about programming, reading reviews and note-taking. 
+A Python developer from Taiwan.
 
 ## Skills:
 
